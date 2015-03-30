@@ -4,8 +4,6 @@
  * 
  * HARDWARE
  * SENSORS: Hummidity - HIH5031; Temperature - DS18B20; Dust - Sharp GP2Y1010AU0F.
- * Smart Sensors Air quality sensor kit
- * https://smartsensors.lt
  * 
  * Library used:
  * Andrew Bythell <abythell@ieee.org> HIH4030 sensor Library
