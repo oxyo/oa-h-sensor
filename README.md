@@ -3,10 +3,10 @@
 ![](http://smartcontrol.lt/images/portfolio/S04.jpg)
 
 This is an Arduino UNO compatible device with HIH5031 humidity sensor installed.  
-It use [Ciseco XRF wireless RF radio UART serial data module][] to communicate with Open Automation Center
+It uses [Ciseco XRF wireless RF radio UART serial data module][] to communicate with Open Automation Center
 
   
-This simple device can measure air humidity up to 3% precision. Also provided option to connect SHARP GP2Y1010AU0F dust sensor to measure dust concentration in air.
+This simple device can measure air humidity up to 3% precision. Also provided option to connect SHARP GP2Y1010AU0F dust sensor to measure the dust concentration in air.
   
 Arduino firmware, schematics and board files provided. 
   
