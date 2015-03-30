@@ -1,6 +1,6 @@
-# Open Automation coordinator controller   
+# Open Automation humidity sensor   
 
-![](http://smartcontrol.lt/images/portfolio/S03.jpg)
+![](http://smartcontrol.lt/images/portfolio/S04.jpg)
 
 This is Arduino Ethernet compatible device based on [DFRobot Xboard V.2.](http://www.dfrobot.com/index.php?route=product/product&product_id=564) + added Real time clock and radio communication module.
 It use [Ciseco XRF wireless RF radio UART serial data module][] to communicate with Open Automation Center.
